@@ -1,0 +1,20 @@
+{
+  "name": "clutter-organizer",
+  "version": "1.0.0",
+  "description": "This Project is organize your Files in Folder like move all mp4 files in mp4 folder",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "clutter",
+    "organizer"
+  ],
+  "author": "Muhammad Hassaan",
+  "license": "ISC",
+  "dependencies": {
+    "fs": "^0.0.1-security",
+    "path": "^0.12.7"
+  }
+}
